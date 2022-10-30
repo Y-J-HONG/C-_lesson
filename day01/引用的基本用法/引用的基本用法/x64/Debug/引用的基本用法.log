@@ -1,0 +1,5 @@
+﻿  参数的传递方式.cpp
+  引用的用法.cpp
+  正在生成代码...
+引用的用法.obj : error LNK2005: main 已经在 参数的传递方式.obj 中定义
+D:\program\Visual_Studio\Project\C++Plus\引用的基本用法\x64\Debug\引用的基本用法.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

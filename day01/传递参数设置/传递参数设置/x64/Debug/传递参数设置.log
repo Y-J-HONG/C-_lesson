@@ -1,0 +1,3 @@
+﻿  传递参数.cpp
+D:\program\Visual_Studio\Project\C++Plus\传递参数设置\传递参数设置\传递参数.cpp(66): warning C4172: 返回局部变量或临时变量的地址: a
+  传递参数设置.vcxproj -> D:\program\Visual_Studio\Project\C++Plus\传递参数设置\x64\Debug\传递参数设置.exe

@@ -1,0 +1,3 @@
+﻿  c文件下的分装.c
+D:\program\Visual_Studio\Project\C++Plus\day02\c++中的封装\c++中的封装\c文件下的分装.c(35,12): warning C4133: “函数”: 从“person *”到“Dog *”的类型不兼容
+LINK : fatal error LNK1104: 无法打开文件“D:\program\Visual_Studio\Project\C++Plus\day02\c++中的封装\x64\Debug\c++中的封装.exe”
